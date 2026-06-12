@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniil</h1>
-<h3 align="center">Frontend Developer from Russia 🇷🇺</h3>
+
+<h3 align="center">Frontend Engineer · Russia 🇷🇺</h3>
 
 <p align="center">
-Building modern web experiences with a focus on performance,
-clean architecture, and user experience.
+Design-minded frontend developer building scalable, performant, and user-centric web products.
 </p>
 
 <p align="center">
@@ -12,77 +12,76 @@ clean architecture, and user experience.
 
 ---
 
-## 🚀 About Me
+## ✦ SYSTEM PROFILE
 
-- 💻 Frontend Developer passionate about creating intuitive products
-- 🎨 Former designer with 2 years of professional design experience
-- 🌱 Currently learning **GraphQL, Obsidian, and AI Prompt Engineering**
-- 🔍 Interested in Developer Experience and modern web architecture
-- ⚡ I enjoy turning ideas into polished interfaces
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,vue,html,css,sass,tailwind" />
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgres,mysql,sqlite,redis" />
-</p>
-
-### DevOps & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,grafana" />
-</p>
-
-### Testing & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=cypress,selenium,postman" />
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,graphql,bash,electron,webpack" />
-</p>
+```txt
+ROLE: Frontend Engineer
+FOCUS: UI Architecture · Performance · DX
+BACKGROUND: Designer (2y)
+CURRENT MODE: Learning GraphQL / Obsidian / AI Prompting
+STATUS: Building + Iterating
+```
 
 ---
 
-## 📌 Featured Projects
+## 🚀 CORE DRIVERS
 
-<!--
-Future place for your best work.
-
-Example:
-
-### Project Name
-Short description.
-
-🔗 Demo:
-🔗 Repository:
--->
-
-> Coming soon...
+- 🧠 Product-first thinking with strong UI intuition  
+- 🎨 Design background → pixel-aware frontend execution  
+- ⚙️ Focus on maintainable architecture, not just implementation  
+- 📈 Continuous system improvement (code, workflow, tooling)  
 
 ---
 
-## 📝 Currently Exploring
+## 🧰 TECH STACK MATRIX
 
-- GraphQL ecosystem
-- Obsidian knowledge management
-- AI Prompt Engineering
-- Advanced frontend architecture
+### Frontend Layer
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,vue,html,css,tailwind,sass" />
+</p>
+
+### Backend Layer
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgres,mysql,sqlite,redis" />
+</p>
+
+### Infrastructure Layer
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,grafana" />
+</p>
+
+### Quality & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=cypress,selenium,postman,git" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📦 ACTIVE FOCUS AREAS
+
+- GraphQL ecosystem design patterns  
+- Knowledge systems (Obsidian-based workflows)  
+- AI-assisted development pipelines  
+- Scalable frontend architecture patterns  
+
+---
+
+## 📌 FEATURED WORKSPACE
+
+```txt
+STATUS: EMPTY SLOT
+PURPOSE: Showcase production-grade systems
+RULE: Only high-impact projects allowed
+```
+
+> Projects will appear here as production-ready systems, not experiments.
+
+---
+
+## 📊 ENGINEERING METRICS
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Frostmxurne&show_icons=true&rank_icon=github&hide_border=true" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frostmxurne&layout=compact&hide_border=true" />
 </p>
 
@@ -92,7 +91,7 @@ Short description.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECTIVITY LAYER
 
 <p align="left">
 <a href="https://github.com/Frostmxurne">
@@ -110,18 +109,35 @@ Short description.
 
 ---
 
-## ✨ A Little More About Me
+## ✨ PERSONAL SIGNATURE
 
-<!--
-This section is intentionally left for future updates.
+```txt
+        ／＞　 フ
+       | 　_　_| 
+     ／` ミ＿xノ 
+    /　　　　 |
+   /　 ヽ　　 ﾉ
+  │　　|　|　|
+／￣|　 |　|　|
+| (￣ヽ＿_ヽ_)__)
+＼二つ
 
-Ideas:
-- hobbies;
-- achievements;
-- certifications;
-- blog posts;
-- fun facts;
-- books you're reading.
--->
+Fluttershy mode: quietly debugging production issues 🐾
+```
 
-> More stories, projects, and experiences will appear here over time.
+---
+
+## 📎 FUTURE EXPANSION ZONE
+
+```txt
+Reserved for:
+- Blog posts
+- Case studies
+- OSS contributions
+- Architecture breakdowns
+- Talks / certifications
+```
+
+> System designed to scale with experience, not clutter.
+
+---
