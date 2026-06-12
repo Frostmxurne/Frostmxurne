@@ -1,48 +1,57 @@
-<h1 align="center">Hi 👋, I'm Daniil</h1>
-
-<h3 align="center">Frontend Engineer · Russia 🇷🇺</h3>
-
+<!-- ANIMATED HEADER -->
 <p align="center">
-Design-minded frontend developer building scalable, performant, and user-centric web products.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+Daniil;Design-driven+Web+Architect;Building+Scalable+UI+Systems;React+%2F+Next.js+%2F+TypeScript+%2F+GraphQL;Always+optimizing+DX+%26+Performance" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Daniil</h1>
+
+<h3 align="center">Frontend Engineer · Design-driven systems builder · Russia 🇷🇺</h3>
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Frostmxurne&label=Profile%20Views&style=for-the-badge" />
+Building scalable, performant and visually consistent web products with engineering discipline.
 </p>
 
 ---
 
-## ✦ SYSTEM PROFILE
+<!-- PROFILE VIEW (NEON STYLE) -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Frostmxurne&label=PROFILE%20VIEWS&style=for-the-badge&color=00f7ff" />
+</p>
+
+---
+
+## 🌑 SYSTEM OVERVIEW
 
 ```txt
-ROLE: Frontend Engineer
-FOCUS: UI Architecture · Performance · DX
-BACKGROUND: Designer (2y)
-CURRENT MODE: Learning GraphQL / Obsidian / AI Prompting
-STATUS: Building + Iterating
+MODE      :: Production Engineering
+FOCUS     :: UI Architecture · Performance · DX
+ORIGIN    :: Designer → Frontend Engineer
+STACK     :: React Ecosystem + Backend Integrations
+PHILOSOPHY:: Minimal UI, Maximum Clarity, Scalable Systems
 ```
 
 ---
 
-## 🚀 CORE DRIVERS
+## ⚡ CORE PRINCIPLES
 
-- 🧠 Product-first thinking with strong UI intuition  
-- 🎨 Design background → pixel-aware frontend execution  
-- ⚙️ Focus on maintainable architecture, not just implementation  
-- 📈 Continuous system improvement (code, workflow, tooling)  
+- 🧠 Product-first engineering thinking  
+- 🎨 Design background → pixel-perfect frontend execution  
+- ⚙️ Scalable architecture over quick hacks  
+- 🚀 Performance-aware UI development  
+- 🧩 System thinking over component thinking  
 
 ---
 
-## 🧰 TECH STACK MATRIX
+## 🧰 TECH STACK (MODULAR LAYERS)
 
 ### Frontend Layer
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,vue,html,css,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,vue,tailwind,html,css,sass" />
 </p>
 
 ### Backend Layer
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgres,mysql,sqlite,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgres,mysql,sqlite,redis,graphql" />
 </p>
 
 ### Infrastructure Layer
@@ -50,50 +59,38 @@ STATUS: Building + Iterating
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,grafana" />
 </p>
 
-### Quality & Automation
+### Quality & Tooling
 <p>
-<img src="https://skillicons.dev/icons?i=cypress,selenium,postman,git" />
+<img src="https://skillicons.dev/icons?i=cypress,selenium,postman,git,webpack,bash" />
 </p>
 
 ---
 
-## 📦 ACTIVE FOCUS AREAS
+## 📦 CURRENT FOCUS
 
-- GraphQL ecosystem design patterns  
-- Knowledge systems (Obsidian-based workflows)  
-- AI-assisted development pipelines  
-- Scalable frontend architecture patterns  
-
----
-
-## 📌 FEATURED WORKSPACE
-
-```txt
-STATUS: EMPTY SLOT
-PURPOSE: Showcase production-grade systems
-RULE: Only high-impact projects allowed
-```
-
-> Projects will appear here as production-ready systems, not experiments.
+- GraphQL architecture patterns  
+- Advanced frontend system design  
+- Obsidian knowledge systems  
+- AI-assisted development workflows  
 
 ---
 
-## 📊 ENGINEERING METRICS
+## 📊 ENGINEERING SIGNALS
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Frostmxurne&show_icons=true&rank_icon=github&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frostmxurne&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Frostmxurne&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frostmxurne&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frostmxurne&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frostmxurne&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 CONNECTIVITY LAYER
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Frostmxurne">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -109,7 +106,17 @@ RULE: Only high-impact projects allowed
 
 ---
 
-## ✨ PERSONAL SIGNATURE
+## 🧠 FEATURE WORKSPACE
+
+```txt
+STATUS   :: Reserved for production systems
+RULESET  :: No prototypes, only scalable solutions
+FOCUS    :: Architecture-first engineering artifacts
+```
+
+---
+
+## 🐾 PERSONAL SIGNATURE
 
 ```txt
         ／＞　 フ
@@ -122,22 +129,20 @@ RULE: Only high-impact projects allowed
 | (￣ヽ＿_ヽ_)__)
 ＼二つ
 
-Fluttershy mode: quietly debugging production issues 🐾
+Fluttershy mode: silent debugging, stable releases 🐾
 ```
 
 ---
 
-## 📎 FUTURE EXPANSION ZONE
+## 🚀 EXPANSION ZONE
 
 ```txt
-Reserved for:
-- Blog posts
+Reserved capacity:
 - Case studies
 - OSS contributions
+- Technical articles
 - Architecture breakdowns
-- Talks / certifications
+- Public speaking / certifications
 ```
-
-> System designed to scale with experience, not clutter.
 
 ---
