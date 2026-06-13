@@ -26,7 +26,7 @@ Building scalable, performant and visually consistent web products with engineer
 MODE      :: Production Engineering
 FOCUS     :: UI Architecture · Performance · DX
 ORIGIN    :: Designer → Frontend Engineer
-STACK     :: React Ecosystem + Backend Integrations
+STACK     :: Vue Ecosystem + Backend Integrations
 PHILOSOPHY:: Minimal UI, Maximum Clarity, Scalable Systems
 ```
 
